@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Go Functions on EdgeOne Pages - Echo Framework",
+  title: "Echo + EdgeOne Pages",
   description: "Go Functions allow you to run Go web frameworks like Echo on EdgeOne Pages. Build full-stack applications with Echo's high-performance routing and middleware.",
 };
 
@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en-US">
       <head>
-        <link rel="icon" href="/eo-logo-blue.svg" />
+        <link rel="icon" href="/echo-favicon.svg" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
