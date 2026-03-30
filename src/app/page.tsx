@@ -174,7 +174,7 @@ func main() {
                 One-Click Deployment
               </Button>
             </a>
-            <a href="https://pages.edgeone.ai/document/go-functions" target="_blank" rel="noopener noreferrer">
+            <a href="https://pages.edgeone.ai/document/go" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="lg" className="btn-outline px-8 py-6 text-lg rounded-lg cursor-pointer">
                 <ExternalLink className="w-5 h-5 mr-2" />
                 View Documentation
