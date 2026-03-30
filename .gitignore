@@ -40,9 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# lock files
+package-lock.json
+
 # Tencent Cloud EdgeOne
 .env
 .edgeone/*
 !.edgeone/project.json
 .tef_dist/*
-  
